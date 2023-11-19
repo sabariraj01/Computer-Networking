@@ -26,7 +26,7 @@ class week3_1
         String g="";
         for(int i=d;i>=0;i--)
         {
-            System.out.println("Enter degree of "+i+" ");
+            System.out.println("Enter coefficient of "+i+" ");
             g=g+i1.next();
         }
         return g;
