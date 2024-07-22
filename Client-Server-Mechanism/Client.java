@@ -1,4 +1,4 @@
-package week5;
+package Client-Server-Mechanism;
 
 //MYClient
 import java.io.*;
