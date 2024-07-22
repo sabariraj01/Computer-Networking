@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class week1 {
+public class ComputeParityBit {
     public static void main(String[] args) {
         Scanner i1 = new Scanner(System.in);
         System.out.println("Enter the dataword: ");
