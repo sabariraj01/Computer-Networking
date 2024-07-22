@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class week3_1 
+class CRCEncoder 
 {
     public static void main(String[] ar) 
     {
