@@ -1,5 +1,5 @@
 import java.util.*;
-public class week4 
+public class ChecksumGenerator 
 {
     public static String complement(String sum, int m) 
     {
