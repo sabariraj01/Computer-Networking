@@ -3,7 +3,7 @@
 // Write a program to find out the  r value for the given m  value.
 
 import java.util.Scanner;
-public class week2_3 
+public class HammingR
 {
     public static void main(String[] arg)
     {
