@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class week3_2 
+public class HammingCodeBitPositions
 {
     public static void main(String[] ar)
     {
