@@ -3,7 +3,7 @@
 // (ii) If codewords are not equal, your function must return an integer number  that is equal to how many corresponding bits are different.
 
 import java.util.Scanner;
-class week2_1
+class  CodewordCheck
 {
     public static void main(String [] ard)
     {
