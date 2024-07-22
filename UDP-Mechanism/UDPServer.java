@@ -1,6 +1,6 @@
-package week6;
+package UDP-Mechanism;
 import java.net.*;
-public class udpS
+public class UDPServer
  {
     public static void main(String[] args) 
     {
