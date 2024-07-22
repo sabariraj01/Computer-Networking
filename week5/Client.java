@@ -4,7 +4,7 @@ package week5;
 import java.io.*;
 import java.net.*;
 
-public class MyClient 
+public class Client 
 {
     public static void main(String[] args) 
     {
