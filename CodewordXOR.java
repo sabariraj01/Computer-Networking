@@ -1,7 +1,7 @@
 //  2. Create a function to compute the XOR of two codewords.
 
 import java.util.Scanner;
-public class week2_2 
+public class CodewordXOR
 {
     public static void main(String[] ar)
     {
