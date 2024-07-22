@@ -1,7 +1,7 @@
-package week6;
+package UDP-Mechanism;
 import java.net.*;
 
-public class udpC 
+public class UDPClient
 {
     public static void main(String[] args)
     {
